@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+    <body>
+
+        <h1 id="estado">CAIXA ELETRÔNICO</h1>
+
+        <script src="/socket.io/socket.io.js"></script>
+        <script>
+
+            var socket = io();
+
+            socket.on('maquina estado', function(estadoAtual) {
+
+                document.getElementById('estado').innerText = estadoAtual;
+
+            });
+
+        </script>
+    </body>
+
+</html>

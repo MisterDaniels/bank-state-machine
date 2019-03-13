@@ -1,0 +1,22 @@
+{
+  "name": "caixa-bancario",
+  "version": "1.0.0",
+  "description": "Máquina de Estado de um caixa bancário, utilizando o módulo State Machine de Dave Stewart",
+  "main": "index.html",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0",
+    "state-machine": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state",
+    "machine"
+  ],
+  "author": "Daniel Silva e João Marcelo",
+  "license": "ISC"
+}
