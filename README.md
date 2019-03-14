@@ -6,6 +6,6 @@ Para testar no console:
 socket.emit('maquina estado', 'proxComCartao');
 socket.emit('maquina estado', 'proxSemCartao');
 socket.emit('maquina estado', 'erro');
-'''
+```
 
 ![alt text](https://i.ibb.co/RcPTybC/Diagrama.png)
