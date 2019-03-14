@@ -8,8 +8,10 @@
         <script src="/socket.io/socket.io.js"></script>
         <script>
 
+            // Inicializa o Web Socket
             var socket = io();
 
+            // Recebe do Socket.io o estado alterado e então coloca no H1 da página
             socket.on('maquina estado', function(estadoAtual) {
 
                 document.getElementById('estado').innerText = estadoAtual;
