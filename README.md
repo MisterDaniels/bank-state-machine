@@ -16,7 +16,7 @@ socket.emit('maquina estado', 'erro');
 ![alt text](https://i.ibb.co/RcPTybC/Diagrama.png)
 
 ## Tabela de Estados
-![alt text](https://i.ibb.co/qrRw8s1/TABELA.jpg)
+![alt text](https://i.ibb.co/fCYHrCP/tabela-Automato.png)
 
 ## Fórmula dos Estados
-![alt text](https://i.ibb.co/QrYmKj5/F-RMULAS.jpg)
+![alt text](https://i.ibb.co/bJxLyTQ/funcao.png)
