@@ -6,7 +6,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.15.2",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "state-machine": "^1.0.4"
   },
   "devDependencies": {},
