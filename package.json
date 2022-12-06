@@ -5,7 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "socket.io": "^2.2.0",
     "state-machine": "^1.0.4"
   },
